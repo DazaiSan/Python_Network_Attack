@@ -1,0 +1,5 @@
+***my_vul_scanner file will come across this error :
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it.
+
+***Install FreeFloatServer from their site, run the exe file.
+Now the code will run properly.
